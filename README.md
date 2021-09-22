@@ -1,5 +1,7 @@
 # CRUD Operations with SharePoint site using RESTful apis 
 
+[Read the full documentation here](https://sharathkv.github.io/CRUD_in_SharePoint/)
+
 Upload/download files, create/delete folders at a SharePoint site through cli  
   
 
