@@ -1,0 +1,10 @@
+sharepoint module
+=================
+
+.. automodule:: sharepoint
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+.. |config file| image:: images/config.png

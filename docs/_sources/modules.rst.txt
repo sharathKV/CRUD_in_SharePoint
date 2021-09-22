@@ -1,0 +1,7 @@
+sharepoint
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   sharepoint
